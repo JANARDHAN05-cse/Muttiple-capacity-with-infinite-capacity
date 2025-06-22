@@ -24,10 +24,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Program :
-```
-NAME : P JANARDHAN
-REGISTER NUMBER : 212224040128
-```
+|NAME             |  P JANARDHAN|
+|-----------------|-------------|
+|**REGISTER NUMBER** | **212224040128**|
 ```PYTHOn
 import math
 
